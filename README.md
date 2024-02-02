@@ -10,7 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://amk.great-site.net
 
 <br>
 
-## 📌 Pinned Repositories
+## 📌 Fav Repositories
 
 <br>
 
