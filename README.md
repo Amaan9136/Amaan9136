@@ -14,7 +14,7 @@ Want to know more about me? [Check out my portfolio.](https://amk.great-site.net
 
 <br>
 
-<a href="https://github.com/Amaan9136/video-call-using-ai">
+<a href="https://github.com/Amaan9136/xpert-meet">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Amaan9136&repo=xpert-meet&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
