@@ -6,7 +6,7 @@
 
 ## Hello, I'm Amaan
 
-AI & ML Engineer passionate about building intelligent systems and full-stack applications. Currently pursuing my Bachelor's degree in Artificial Intelligence & Machine Learning at Adichunchanagiri Institute of Technology with a CGPA of 8.83. I specialize in RAG pipelines, knowledge graphs, transformers, and LLM integrations.
+AI & ML Engineer passionate about building intelligent systems and full-stack applications. Currently pursuing my Bachelor's degree in Artificial Intelligence & Machine Learning at Adichunchanagiri Institute of Technology. I specialize in RAG pipelines, knowledge graphs, transformers, and LLM integrations.
 
 ### About Me
 
@@ -17,6 +17,7 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 - **Location**: Bengaluru, Karnataka, India
 - **Open To**: Master's programs in AI/Data Science and challenging technical roles in AI/ML development
 - **Notable**: 2,196+ LinkedIn followers, 27+ GitHub followers, 61 repositories
+- **Impact**: Committed to learning and empowering 600+ students and 100+ researchers & faculty in AI/ML innovation
 
 ---
 
@@ -130,7 +131,7 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 - Managed team operations and system architecture
 
 **Technical Trainer** | Webvinyasa Tech Solutions (Dec 2023 - Mar 2025)
-- Trained 100+ students in MERN stack and web development
+- Trained 300+ students in MERN stack and web development
 - Mentored aspiring developers on full-stack applications
 - Created comprehensive learning materials and guidance
 
@@ -140,7 +141,6 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 
 **Bachelor of Engineering in Artificial Intelligence & Machine Learning**
 - Adichunchanagiri Institute of Technology (2021 - 2025)
-- CGPA: 8.83 (APS Verified)
 - Relevant Coursework: AI, ML, Data Science, NLP, Computer Vision
 
 **Senior Secondary Education (Mathematics & Computer Science)**
