@@ -110,14 +110,6 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 
 ---
 
-## GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amaan9136&show_icons=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan9136&layout=compact&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-
----
-
 ## Languages
 
 - **English**: Professional working proficiency (IELTS Band 6)
