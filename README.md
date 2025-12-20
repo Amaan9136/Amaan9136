@@ -6,7 +6,7 @@
 
 ## Hello, I'm Amaan
 
-AI & ML Engineer passionate about building intelligent systems and full-stack applications. Currently pursuing my Bachelor's degree in Artificial Intelligence & Machine Learning at Adichunchanagiri Institute of Technology. I specialize in RAG pipelines, knowledge graphs, transformers, and LLM integrations.
+AI & ML Engineer passionate about building intelligent systems and full-stack applications. Currently pursuing my Bachelor's degree in Artificial Intelligence & Machine Learning at Adichunchanagiri Institute of Technology. I specialize in RAG pipelines, knowledge graphs, transformers, and LLM integrations. 
 
 ### About Me
 
