@@ -106,7 +106,7 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 **AI Research Associate** | Keywords Studios (Jul 2025 - Present)
 - Specializing in AGI training and agentic AI development
 - Building advanced AI systems for production environments
-- Working with cutting-edge AI/ML technologies and frameworks
+- Working with advanced AI/ML technologies and frameworks
 
 **Executive Director** | Automatech (Apr 2025 - Present)
 - Leading project planning and team management
@@ -141,9 +141,10 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 
 **Bachelor of Engineering in Artificial Intelligence & Machine Learning**
 - Adichunchanagiri Institute of Technology (2021 - 2025)
+- CGPA: 8.83
 - Relevant Coursework: AI, ML, Data Science, NLP, Computer Vision
 
-**Senior Secondary Education (Mathematics & Computer Science)**
+**Senior Secondary Education (Major in Mathematics & Computer Science)**
 - St Mary's (2019 - 2021)
 - Grade: A+
 
