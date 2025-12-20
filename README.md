@@ -1,6 +1,145 @@
 [![Amaan's GitHub Banner](./assets/GitHubHeader.png)](https://amk.great-site.net)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amaanmk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=chrome&logoColor=white)](https://amk.great-site.net)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat&logo=gmail)](mailto:syedkhalander66@gmail.com)
+
+## Hello, I'm Amaan
+
+AI & ML Engineer passionate about building intelligent systems and full-stack applications. Currently pursuing my Bachelor's degree in Artificial Intelligence & Machine Learning at Adichunchanagiri Institute of Technology with a CGPA of 8.83. I specialize in RAG pipelines, knowledge graphs, transformers, and LLM integrations.
+
+### About Me
+
+- **Current Role**: AI Research Associate at Keywords Studios
+- **Focus**: Building scalable AI/ML solutions with emphasis on production-grade systems
+- **Expertise**: Full-stack development, machine learning operations (MLOps), agentic AI, and knowledge graph embeddings
+- **Passionate About**: Solving real-world problems through AI, creating intuitive user experiences, and continuous learning
+- **Location**: Bengaluru, Karnataka, India
+- **Open To**: Master's programs in AI/Data Science and challenging technical roles
+
+---
+
+## Featured Projects
+
+<a href="https://github.com/Amaan9136/xpert-meet">
+  <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Amaan9136&repo=xpert-meet&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Amaan9136/mul-model">
+  <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Amaan9136&repo=mul-model&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Amaan9136/health-plus">
+  <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Amaan9136&repo=health-plus&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Amaan9136/ai-based-ivr-system">
+  <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Amaan9136&repo=ai-based-ivr-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+---
+
+## Technical Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599c?logo=cplusplus&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-f7931e?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5c3ee1?logo=opencv&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61dafb?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285f4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078d4?logo=microsoftazure&logoColor=white)
+
+---
+
+## Experience Highlights
+
+**AI Research Associate** | Keywords Studios (Jul 2025 - Present)
+- Specializing in AGI training and agentic AI development
+- Building advanced AI systems for production environments
+
+**Executive Director** | Automatech (Apr 2025 - Present)
+- Leading project planning and team management
+- Driving technical innovation and product development
+
+**ML Development Intern** | Kreat Innovations Ltd (Apr 2025 - Jul 2025)
+- Developed agentic AI solutions and knowledge graph embeddings
+- Implemented RAG pipelines for intelligent systems
+
+**Technical Trainer** | Webvinyasa Tech Solutions (Dec 2023 - Mar 2025)
+- Trained 100+ students in MERN stack and web development
+- Mentored aspiring developers on full-stack applications
+
+---
+
+## Certifications & Achievements
+
+- **React - The Complete Guide** | Academind, Udemy
+- **Generative AI Unleashed** | Learnsector LLP, Udemy
+- **Full Stack Data Science & ML** | Akhil Vydyula, Udemy
+- **National Level Hackathon Winner** | 2nd Place, Hack Overflow - KLEIT (2023)
+- **CSS Battle Winner** | 2nd Prize, BGS College of Engineering (2023)
+- **Academic Excellence** | 4th Sem Merit Award, AIT Chikkamagaluru
+
+---
+
+## GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amaan9136&show_icons=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan9136&layout=compact&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+
+---
+
+## Languages
+
+- **English**: Professional working proficiency (IELTS Band 6)
+- **German**: Elementary proficiency (A1-A2)
+- **Urdu, Hindi, Kannada, Malayalam**: Native/Fluent
+
+---
+
+## Connect With Me
+
+I'm always open to collaborating on exciting projects, discussing AI/ML innovations, or exploring new opportunities. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaan%20MK-0077b5?logo=linkedin)](https://www.linkedin.com/in/amaanmk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amk.great--site.net-success?logo=chrome)](https://amk.great-site.net)
+[![Email](https://img.shields.io/badge/Email-syedkhalander66%40gmail.com-red?logo=gmail)](mailto:syedkhalander66@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Amaan9136-black?logo=github)](https://github.com/Amaan9136)
+
+---
+
+*Last updated: December 2025*[![Amaan's GitHub Banner](./assets/GitHubHeader.png)](https://amk.great-site.net)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amaanmk/)
 
 Hey there 👋
 
