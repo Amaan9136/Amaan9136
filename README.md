@@ -1,23 +1,31 @@
-[![Amaan's GitHub Banner](./assets/GitHubHeader.png)](https://amk.great-site.net)
+<div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amaanmk/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=chrome&logoColor=white)](https://amk.great-site.net)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat&logo=gmail)](mailto:syedkhalander66@gmail.com)
+[![Amaan's GitHub Banner](./assets/GitHubHeader.png)](https://automatech.live/profiles/amk)
 
-## Hello, I'm Amaan
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amaanmk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanmk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amk.great--site.net-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://automatech.live/profiles/amk)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedkhalander66@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Amaan9136?style=for-the-badge&logo=github&color=181717&labelColor=181717)](https://github.com/Amaan9136?tab=followers)
+[![LinkedIn followers](https://img.shields.io/badge/LinkedIn_followers-3%2C052-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanmk/)
 
-AI & ML Engineer passionate about building intelligent systems and full-stack applications. Currently pursuing my Bachelor's degree in Artificial Intelligence & Machine Learning at Adichunchanagiri Institute of Technology. I specialize in RAG pipelines, knowledge graphs, transformers, and LLM integrations. 
+</div>
+
+## Hello, I'm Amaan 👋
+
+AI & ML Engineer passionate about building intelligent systems and full-stack applications. I hold a Bachelor's degree in Artificial Intelligence & Machine Learning and am currently pursuing my **MSc in Artificial Intelligence** at the Berlin School of Business & Innovation (BSBI). I specialize in RAG pipelines, knowledge graphs, transformers, and LLM integrations.
 
 ### About Me
 
-- **Current Role**: AI Research Associate at Keywords Studios (Specializing in AGI Training & Agentic AI)
-- **Focus**: Building scalable AI/ML solutions with emphasis on production-grade systems and intelligent automation
-- **Expertise**: Full-stack development, machine learning operations (MLOps), agentic AI systems, knowledge graph embeddings, and RAG pipelines
-- **Passionate About**: Solving real-world problems through AI, creating intuitive user experiences, and continuous learning
-- **Location**: Bengaluru, Karnataka, India
-- **Open To**: Master's programs in AI/Data Science and challenging technical roles in AI/ML development
-- **Notable**: 2,196+ LinkedIn followers, 27+ GitHub followers, 61 repositories
-- **Impact**: Committed to learning and empowering 600+ students and 100+ researchers & faculty in AI/ML innovation
+| | |
+|---|---|
+| 💼 **Current Role** | AI Research Associate at Keywords Studios (AGI Training & Agentic AI) |
+| 🎓 **Currently Studying** | MSc in Artificial Intelligence — Berlin School of Business & Innovation (BSBI) |
+| 🎯 **Focus** | Building scalable AI/ML solutions with emphasis on production-grade systems and intelligent automation |
+| 🛠️ **Expertise** | Full-stack development, MLOps, agentic AI systems, knowledge graph embeddings, and RAG pipelines |
+| ❤️ **Passionate About** | Solving real-world problems through AI, creating intuitive user experiences, and continuous learning |
+| 📍 **Location** | Bengaluru, Karnataka, India |
+| 📊 **Notable** | 3,052+ LinkedIn followers · 500+ connections · 27+ GitHub followers · 55 open-source repositories |
+| 🌱 **Impact** | Committed to learning and empowering 800+ students and 100+ researchers & faculty in AI/ML innovation |
 
 ---
 
@@ -50,7 +58,10 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 
 ## Technical Skills
 
-### Programming Languages
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br>
+
 ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white)
@@ -99,6 +110,8 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 ![Azure](https://img.shields.io/badge/-Azure-0078d4?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=amazonaws&logoColor=white)
 
+</details>
+
 ---
 
 ## Professional Experience
@@ -138,6 +151,10 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 ---
 
 ## Education
+
+**MSc in Artificial Intelligence**
+- Berlin School of Business & Innovation (BSBI)
+- Status: In Progress
 
 **Bachelor of Engineering in Artificial Intelligence & Machine Learning**
 - Adichunchanagiri Institute of Technology (2021 - 2025)
@@ -182,14 +199,29 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amaan9136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan9136&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## Connect With Me
 
 I'm always open to collaborating on exciting projects, discussing AI/ML innovations, or exploring new opportunities. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaan%20MK-0077b5?logo=linkedin)](https://www.linkedin.com/in/amaanmk/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amk.great--site.net-success?logo=chrome)](https://amk.great-site.net)
-[![Email](https://img.shields.io/badge/Email-syedkhalander66%40gmail.com-red?logo=gmail)](mailto:syedkhalander66@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Amaan9136-black?logo=github)](https://github.com/Amaan9136)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaan%20MK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanmk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amk.great--site.net-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://automatech.live/profiles/amk)
+[![Email](https://img.shields.io/badge/Email-syedkhalander66%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedkhalander66@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Amaan9136-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amaan9136)
+
+</div>
 
 ---
 
@@ -200,4 +232,8 @@ I'm always open to collaborating on exciting projects, discussing AI/ML innovati
 
 ---
 
-*Last updated: December 2025 | Always Learning, Always Growing*
+<div align="center">
+
+*Last updated: September 2026 | Always Learning, Always Growing* 🚀
+
+</div>
