@@ -3,7 +3,7 @@
 [![Amaan's GitHub Banner](./assets/GitHubHeader.png)](https://automatech.live/profiles/amk)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amaanmk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanmk/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amk.great--site.net-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://automatech.live/profiles/amk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-automatech.live-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://automatech.live/profiles/amk)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedkhalander66@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Amaan9136?style=for-the-badge&logo=github&color=181717&labelColor=181717)](https://github.com/Amaan9136?tab=followers)
 [![LinkedIn followers](https://img.shields.io/badge/LinkedIn_followers-3%2C052-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanmk/)
@@ -203,10 +203,12 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 
 <div align="center">
 
-![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amaan9136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan9136&layout=compact&theme=tokyonight&hide_border=true)
+![Amaan's GitHub stats](./assets/github-stats.svg)
+![Top Languages](./assets/top-langs.svg)
 
 </div>
+
+<sub>These are self-hosted (regenerated hourly by a GitHub Action) so they don't depend on the shared public `github-readme-stats.vercel.app` demo, which frequently rate-limits and shows broken images. See `.github/workflows/update-stats.yml`.</sub>
 
 ---
 
@@ -217,7 +219,7 @@ I'm always open to collaborating on exciting projects, discussing AI/ML innovati
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaan%20MK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanmk/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amk.great--site.net-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://automatech.live/profiles/amk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-automatech.live-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://automatech.live/profiles/amk)
 [![Email](https://img.shields.io/badge/Email-syedkhalander66%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedkhalander66@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Amaan9136-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amaan9136)
 
