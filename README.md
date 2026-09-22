@@ -208,8 +208,6 @@ AI & ML Engineer passionate about building intelligent systems and full-stack ap
 
 </div>
 
-<sub>These are self-hosted (regenerated hourly by a GitHub Action) so they don't depend on the shared public `github-readme-stats.vercel.app` demo, which frequently rate-limits and shows broken images. See `.github/workflows/update-stats.yml`.</sub>
-
 ---
 
 ## Connect With Me
