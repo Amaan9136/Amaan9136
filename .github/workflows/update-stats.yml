@@ -20,28 +20,23 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Generate stats card (to temp file)
-        run: |
-          curl -sf "https://github-readme-stats.vercel.app/api?username=Amaan9136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" \
-            -o /tmp/github-stats.svg
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Amaan9136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
-      - name: Generate top languages card (to temp file)
-        run: |
-          curl -sf "https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan9136&layout=compact&theme=tokyonight&hide_border=true" \
-            -o /tmp/top-langs.svg
-
-      - name: Validate SVGs before overwriting committed copies
-        run: |
-          for f in /tmp/github-stats.svg /tmp/top-langs.svg; do
-            if [ ! -s "$f" ] || ! grep -q "<svg" "$f"; then
-              echo "::error::$f is empty or not a valid SVG (source service likely rate-limited or down) — keeping existing committed version."
-              exit 1
-            fi
-          done
-          # Ensure assets folder exists before copying
-          mkdir -p assets
-          cp /tmp/github-stats.svg assets/github-stats.svg
-          cp /tmp/top-langs.svg assets/top-langs.svg
+      - name: Generate top languages card (self-hosted, no external service dependency)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Amaan9136&layout=compact&theme=tokyonight&hide_border=true
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Commit and push if changed
         run: |
